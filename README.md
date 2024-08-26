@@ -1,4 +1,4 @@
-# BirthdayGreetingService
+# BirthdayGreetingService (в разработке)
 
 Сервис для уведомлении о дне рождении
 
